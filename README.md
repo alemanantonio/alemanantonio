@@ -1,53 +1,62 @@
-# ¡Hola! 👋 Soy Antonio Aleman
+# Antonio Alemán
 
-### **🚀 Desarrollador [Full Stack | Frontend | Backend ]**  
-Apasionado por la tecnología, construyendo soluciones digitales eficientes.
-
-🎓 Actualmente soy desarrollador autodidacta con enfoque en crear experiencias web intuitivas y funcionales.  
-Me encanta aprender constantemente, colaborar en proyectos desafiantes y llevar ideas a la realidad mediante el código.
+**Full Stack & Mobile Developer**  
+Enfocado en el desarrollo de aplicaciones web y móviles eficientes, escalables y con un diseño de interfaz cuidado.
 
 ---
 
-## **🛠 Tecnologías y Herramientas**  
-![Lenguajes y Frameworks](https://skillicons.dev/icons?i=html,css,js,c,cpp,cs,react,astro,tailwind,java,php,mysql,py,ts,ruby,unity,android&theme=light)
+### 💻 Sobre mí
+
+- 🔭 Actualmente desarrollando proyectos web con **Next.js**, **Astro** y **Kotlin** para Android.
+- 🎓 Estudiante y desarrollador apasionado por la arquitectura de software y las buenas prácticas de código.
+- 🎯 Enfocado en la optimización de rendimiento, diseño UI/UX en modo oscuro y desarrollo full-stack.
 
 ---
 
-## **📚 Actualmente aprendiendo**
-- Next.js
-- Docker y despliegue en la nube (Vercel, Netlify, Render)
-- Arquitectura de software escalable
-- Diseño UI/UX con Figma
+### 🛠️ Tecnologías & Herramientas
+
+#### **Lenguajes & Frameworks**
+![HTML5](https://img.shields.io/badge/HTML5-181717?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-181717?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-181717?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-181717?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-181717?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-181717?style=flat-square&logo=tailwindcss&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-181717?style=flat-square&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-181717?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-181717?style=flat-square&logo=python&logoColor=white)
+
+#### **Bases de Datos & Herramientas**
+![MySQL](https://img.shields.io/badge/MySQL-181717?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-181717?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-181717?style=flat-square&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-181717?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-## **🧠 Intereses**
-- Desarrollo web creativo con animaciones y UI modernas
-- Automatización de tareas con Python
-- Desarrollo de videojuegos indie con Unity
-- Inteligencia artificial aplicada a productos web
+### 📌 Proyectos Destacados
+
+| Proyecto | Descripción | Tech Stack |
+| :--- | :--- | :--- |
+| **[Personal Portfolio](https://github.com/alemanantonio/portfolio)** | Sitio web profesional responsivo con arquitectura moderna y optimización de carga. | `Astro` `Tailwind` `React` |
+| **[Task Manager App](https://github.com/alemanantonio/task-manager-app)** | Aplicación de gestión de tareas con autenticación JWT y persistencia de datos. | `Node.js` `Express` `MongoDB` |
+| **[Music Web App](https://github.com/alemanantonio/spotify-clone)** | Cliente web de música con integración de API externa y UI moderna. | `Next.js` `Tailwind` |
 
 ---
 
-## **📊 Estadísticas de GitHub**  
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=alemanantonio&show_icons=true&theme=radical)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=alemanantonio&layout=compact&theme=radical)
+### 📊 Estadísticas
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=alemanantonio&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alemanantonio&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" />
+</p>
 
 ---
 
-## **📌 Proyectos Destacados**  
-- **[Portafolio Web Personal](https://github.com/alemanantonio/portfolio)** – Sitio responsivo con diseño moderno y animaciones, creado con Astro, Tailwind y React.
-- **[Gestor de Tareas con Auth](https://github.com/alemanantonio/task-manager-app)** – Aplicación CRUD con login y registro usando Node.js, Express y MongoDB.
-- **[Clon de Spotify](https://github.com/alemanantonio/spotify-clone)** – Reproducción de música vía API con diseño inspirado en Spotify, usando Next.js y Tailwind.
+### 📫 Contacto
 
----
-
-## **📫 Contacto**  
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31amzqxc4lo35m5kz5fbtqpdqlsy?si=da2c464f0b964ec3)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_antonioaleman/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alemanantonio/)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonioalemandev@gmail.com)
-
----
-
-⭐️ **¡Gracias por visitar mi perfil!** ⭐️
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alemanantonio/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:antonioalemandev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/alemanantonio/portfolio)
