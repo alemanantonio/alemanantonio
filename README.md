@@ -1,15 +1,15 @@
 # Antonio Alemán
 
-**Full Stack & Mobile Developer**  
-Enfocado en el desarrollo de aplicaciones web y móviles eficientes, escalables y con un diseño de interfaz cuidado.
+**Full Stack Developer**  
+Enfocado en el desarrollo de aplicaciones web eficientes, escalables y con un diseño de interfaz cuidado.
 
 ---
 
-### 💻 Sobre mí
+### Sobre mí
 
-- 🔭 Actualmente desarrollando proyectos web con **Next.js**, **Astro** y **Kotlin** para Android.
-- 🎓 Estudiante y desarrollador apasionado por la arquitectura de software y las buenas prácticas de código.
-- 🎯 Enfocado en la optimización de rendimiento, diseño UI/UX en modo oscuro y desarrollo full-stack.
+- Actualmente desarrollando proyectos web con **Next.js** y **Astro**.
+- Estudiante y desarrollador apasionado por la arquitectura de software y las buenas prácticas de código.
+- Enfocado en la optimización de rendimiento y desarrollo full-stack.
 
 ---
 
@@ -29,7 +29,6 @@ Enfocado en el desarrollo de aplicaciones web y móviles eficientes, escalables 
 
 #### **Bases de Datos & Herramientas**
 ![MySQL](https://img.shields.io/badge/MySQL-181717?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-181717?style=flat-square&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-181717?style=flat-square&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-181717?style=flat-square&logo=figma&logoColor=white)
