@@ -45,13 +45,12 @@ Enfocado en el desarrollo de aplicaciones web eficientes, escalables y con un di
 
 ---
 
-### Estadísticas
+### 📊 Estadísticas
 
 <p align="center">
-  <img height="160" src="https://herokuapp.com" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alemanantonio&show_icons=true&theme=dark" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alemanantonio&layout=compact&theme=dark" alt="Lenguajes más usados" width="48%" />
 </p>
-
-
 
 ---
 
