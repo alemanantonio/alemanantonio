@@ -46,7 +46,7 @@ Enfocado en el desarrollo de aplicaciones web eficientes, escalables y con un di
 ![VS Code](https://img.shields.io/badge/VS_Code-181717?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-181717?style=flat-square&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-181717?style=flat-square&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-181717?style=flat-square&logo=n8n&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-181717?style=flat-square&logo=Cloudflare&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-181717?style=flat-square&logo=n8n&logoColor=white)
 
 ---
