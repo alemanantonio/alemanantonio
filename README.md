@@ -48,9 +48,10 @@ Enfocado en el desarrollo de aplicaciones web eficientes, escalables y con un di
 ### 📊 Estadísticas
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=alemanantonio&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alemanantonio&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" />
+  <img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=alemanantonio&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img height="160" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alemanantonio&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" />
 </p>
+
 
 ---
 
