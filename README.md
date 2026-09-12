@@ -13,7 +13,7 @@ Enfocado en el desarrollo de aplicaciones web eficientes, escalables y con un di
 
 ---
 
-### 🛠️ Tecnologías & Herramientas
+### Tecnologías & Herramientas
 
 #### **Lenguajes & Frameworks**
 ![HTML5](https://img.shields.io/badge/HTML5-181717?style=flat-square&logo=html5&logoColor=white)
@@ -35,7 +35,7 @@ Enfocado en el desarrollo de aplicaciones web eficientes, escalables y con un di
 
 ---
 
-### 📌 Proyectos Destacados
+### Proyectos Destacados
 
 | Proyecto | Descripción | Tech Stack |
 | :--- | :--- | :--- |
@@ -45,17 +45,17 @@ Enfocado en el desarrollo de aplicaciones web eficientes, escalables y con un di
 
 ---
 
-### 📊 Estadísticas
+### Estadísticas
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=alemanantonio&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img height="160" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alemanantonio&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" />
+  <img height="160" src="https://herokuapp.com" alt="GitHub Streak Stats" />
 </p>
+
 
 
 ---
 
-### 📫 Contacto
+### Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alemanantonio/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:antonioalemandev@gmail.com)
