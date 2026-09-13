@@ -34,7 +34,6 @@ Enfocado en el desarrollo de aplicaciones web eficientes, escalables y con un di
 ![MySQL](https://img.shields.io/badge/MySQL-181717?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-181717?style=flat-square&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-181717?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-181717?style=flat-square&logo=mongodb&logoColor=white)
 
 #### **Herramientas, DevOps & Entornos**
 ![Git](https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=white)
@@ -53,4 +52,4 @@ Enfocado en el desarrollo de aplicaciones web eficientes, escalables y con un di
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alemanantonio/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:antonioalemandev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=white)](htttps://www.antonioaleman.dev)
+[![Portfolio](https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://antonioaleman.dev)
