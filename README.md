@@ -17,7 +17,6 @@ Enfocado en el desarrollo de aplicaciones web eficientes, escalables y con un di
 
 #### **Frontend & UI Frameworks**
 ![HTML5](https://img.shields.io/badge/HTML5-181717?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-181717?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-181717?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-181717?style=flat-square&logo=react&logoColor=white)
@@ -27,7 +26,6 @@ Enfocado en el desarrollo de aplicaciones web eficientes, escalables y con un di
 
 #### **Backend & Lenguajes**
 ![Node.js](https://img.shields.io/badge/Node.js-181717?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-181717?style=flat-square&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-181717?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-181717?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-181717?style=flat-square&logo=openjdk&logoColor=white)
@@ -55,4 +53,4 @@ Enfocado en el desarrollo de aplicaciones web eficientes, escalables y con un di
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alemanantonio/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:antonioalemandev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/alemanantonio/portfolio)
+[![Portfolio](https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=white)](htttps://www.antonioaleman.dev)
