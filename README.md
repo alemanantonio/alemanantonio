@@ -39,8 +39,6 @@ Enfocado en el desarrollo de aplicaciones web eficientes, escalables y con un di
 ![Git](https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-181717?style=flat-square&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-181717?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-181717?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-181717?style=flat-square&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-181717?style=flat-square&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-181717?style=flat-square&logo=Cloudflare&logoColor=white)
