@@ -16,12 +16,6 @@ Desarrollo aplicaciones web eficientes y escalables, con atención al rendimient
 
 ## Estadísticas de GitHub
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=alemanantonio&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alemanantonio&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-
-</div>
 
 <div align="center">
 
