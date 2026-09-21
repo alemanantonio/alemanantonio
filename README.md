@@ -33,10 +33,8 @@ Desarrollo aplicaciones web eficientes y escalables, con atención al rendimient
 
 ## Actividad reciente
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
-*(Esta sección se completa automáticamente con GitHub Actions usando `github-readme-activity-graph` o `readme-activity-graph`; ver notas al final.)*
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alemanantonio&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
