@@ -28,7 +28,7 @@ Desarrollo aplicaciones web eficientes y escalables, con atención al rendimient
 ## Actividad reciente
 
 
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alemanantonio&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Github activity graph]([https://github-readme-activity-graph.vercel.app/graph?username=alemanantonio&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph](https://activity-graph.herokuapp.com/graph?username=alemanantonio&theme=react-dark))
 
 <br>
 
