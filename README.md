@@ -1,6 +1,6 @@
 # Antonio Alemán
 
-**Full Stack Developer**
+**Full Stack & Software Developer**
 
 Desarrollo aplicaciones web eficientes y escalables, con atención al rendimiento y al diseño de interfaz. Trabajo actualmente con Next.js y Astro, combinando buenas prácticas de arquitectura de software con un enfoque full-stack.
 
