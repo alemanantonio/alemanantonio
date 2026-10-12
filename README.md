@@ -2,29 +2,32 @@
 
 **Full Stack & Software Developer**
 
+Construyo productos digitales claros, rápidos y útiles. Desarrollo aplicaciones web con un enfoque en arquitectura de software, rendimiento, seguridad y mantenibilidad, combinando frontend y backend para crear soluciones escalables.
 
-Desarrollo aplicaciones web eficientes y escalables, con atención al rendimiento y al diseño de interfaz. Trabajo actualmente con Next.js y Astro, combinando buenas prácticas de arquitectura de software con un enfoque full-stack.
+[Portfolio](https://antonioaleman.dev) · [LinkedIn](https://www.linkedin.com/in/alemanantonio/) · [Email](mailto:antonioalemandev@gmail.com)
 
-
-<br>
-
+---
 
 ## Sobre mí
 
+- Desarrollo aplicaciones web con **Next.js, Astro y TypeScript**.
+- Diseño e implemento soluciones full-stack con bases de datos e integraciones externas.
+- Me interesa la arquitectura de software, la optimización del rendimiento y las buenas prácticas de código.
+- Desarrollo proyectos propios y herramientas open source.
 
-- Desarrollo proyectos web con **Next.js** y **Astro**
-- Interés particular en arquitectura de software y buenas prácticas de código
-- Enfoque en optimización de rendimiento y desarrollo full-stack
+## Proyectos destacados
 
+**Zenith**
 
-<br>
+Ecosistema de proyectos de software enfocado en desarrollar y organizar herramientas independientes, con documentación y desarrollo abierto.
 
+[Explorar mis proyectos](https://antonioaleman.dev/#work)
+
+---
 
 ## Tecnologías y herramientas
 
-
 **Frontend**
-
 
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
@@ -34,42 +37,34 @@ Desarrollo aplicaciones web eficientes y escalables, con atención al rendimient
 ![Astro](https://img.shields.io/badge/Astro-0D1117?style=flat-square&logo=astro&logoColor=FF5D01)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=38B2AC)
 
-
 **Backend y lenguajes**
-
 
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933)
 ![PHP](https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=777BB4)
 ![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
 ![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=E76F00)
 
+**Bases de datos**
 
-**Bases de datos y ORMs**
-
-
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1)
 ![MariaDB](https://img.shields.io/badge/MariaDB-0D1117?style=flat-square&logo=mariadb&logoColor=003545)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=3FCF8E)
 
-
-**Herramientas, DevOps y entornos**
-
+**Herramientas e infraestructura**
 
 ![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
-![Figma](https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E)
 ![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-0D1117?style=flat-square&logo=cloudflare&logoColor=F38020)
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E)
 ![n8n](https://img.shields.io/badge/n8n-0D1117?style=flat-square&logo=n8n&logoColor=EA4B71)
 
-
-<br>
-
+---
 
 ## Contacto
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alemanantonio/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:antonioalemandev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://antonioaleman.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/alemanantonio/)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:antonioalemandev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=google-chrome&logoColor=white)](https://antonioaleman.dev)
