@@ -4,7 +4,7 @@
 
 Construyo productos digitales claros, rápidos y útiles. Desarrollo aplicaciones web con un enfoque en arquitectura de software, rendimiento, seguridad y mantenibilidad, combinando frontend y backend para crear soluciones escalables.
 
-[Portfolio](https://antonioaleman.dev) · [LinkedIn](https://www.linkedin.com/in/alemanantonio/) · [Email](mailto:antonioalemandev@gmail.com)
+[Portfolio](https://antonioaleman.dev) · [LinkedIn](https://www.linkedin.com/in/alemanantonio/) · [Email](mailto:info@antonioaleman.dev)
 
 ---
 
