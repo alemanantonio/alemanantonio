@@ -1,31 +1,74 @@
-# Antonio Alemán
+<div align="center">
+
+# Antonio Alemán.
 
 **Full Stack & Software Developer**
 
-Construyo productos digitales claros, rápidos y útiles. Desarrollo aplicaciones web con un enfoque en arquitectura de software, rendimiento, seguridad y mantenibilidad, combinando frontend y backend para crear soluciones escalables.
+Técnico en Programación y Desarrollador Web con +3 años de experiencia.
+Radicado en Querétaro, México.
 
-[Portfolio](https://antonioaleman.dev) · [LinkedIn](https://www.linkedin.com/in/alemanantonio/) · [Email](mailto:info@antonioaleman.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=google-chrome&logoColor=white)](https://antonioaleman.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/alemanantonio/)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:info@antonioaleman.dev)
 
----
-
-## Sobre mí
-
-- Desarrollo aplicaciones web con **Next.js, Astro y TypeScript**.
-- Diseño e implemento soluciones full-stack con bases de datos e integraciones externas.
-- Me interesa la arquitectura de software, la optimización del rendimiento y las buenas prácticas de código.
-- Desarrollo proyectos propios y herramientas open source.
-
-## Proyectos destacados
-
-**Zenith**
-
-Ecosistema de proyectos de software enfocado en desarrollar y organizar herramientas independientes, con documentación y desarrollo abierto.
-
-[Explorar mis proyectos](https://antonioaleman.dev/#work)
+</div>
 
 ---
 
-## Tecnologías y herramientas
+## Zenith.
+
+**Agencia de desarrollo de software que elimina el trabajo manual de tu negocio.**
+Creamos páginas web, software a la medida, automatizaciones y APIs para que ahorres tiempo, ordenes tu información y escales tus ventas.
+
+[![Visitar Zenith](https://img.shields.io/badge/getzenith.dev-8B56A5?style=for-the-badge&logoColor=white)](https://getzenith.dev)
+[![Repositorio](https://img.shields.io/badge/Repositorio-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alemanantonio/Zenith)
+
+### Qué construimos
+
+| | |
+|---|---|
+| **Páginas web** | Presenta tu negocio y convierte visitas en oportunidades de venta. |
+| **Software a la medida** | Sistemas según tus requisitos para ahorrar tiempo de operación. |
+| **Automatizaciones** | Menos tareas repetitivas, más tiempo para vender y atender clientes. |
+| **Microservicios** | Conecta tus sistemas para procesar más oportunidades de negocio. |
+
+### Dos formas de empezar
+
+- **Software a la medida** — Analizamos tu proyecto, te enviamos una propuesta con alcance y precio, desarrollamos con avances constantes y entregamos listo para usar.
+- **Micro apps** *(próximamente)* — Herramientas generales con suscripción mensual y acceso inmediato, más económicas que un desarrollo exclusivo.
+
+> [!NOTE]
+> **Programa de Lanzamiento** — Landing page con personalización básica, hosting y mantenimiento durante un año, sin costo, para negocios que todavía no tienen página web. [Aplicar al programa](mailto:info@getzenith.dev?subject=Aplicación%20al%20Programa%20de%20Lanzamiento)
+
+![Astro](https://img.shields.io/badge/Astro-0D1117?style=flat-square&logo=astro&logoColor=FF5D01)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=3FCF8E)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0D1117?style=flat-square&logo=cloudflare&logoColor=F38020)
+
+---
+
+## Otros proyectos.
+
+**Inventario Tecnológico** · Astro, TypeScript, Supabase
+Sistema privado de control de inventario de equipos de TI. Registra, audita y da de baja activos desde un panel centralizado, con secciones y campos a medida por compañía.
+
+**Clon Web FC Barcelona** · HTML, CSS, JavaScript — [Preview](https://clon-web-fc-barcelona.vercel.app/) · [Código](https://github.com/alemanantonio/Clon-Web-FC-Barcelona)
+Clon responsive con secciones de jugadores, noticias, partidos, títulos, historia y estadio.
+
+[Ver todos los proyectos →](https://antonioaleman.dev/see-all-projects/)
+
+---
+
+## Sobre mí.
+
+- Desarrollo aplicaciones web con **Astro, Next.js y TypeScript**, de la base de datos al frontend.
+- Me gusta convertir ideas en software, automatizar lo que tiene sentido y construir cosas desde cero.
+- Me interesa la arquitectura, el rendimiento, la seguridad y el código mantenible.
+- Actualmente: Programador en Interforest - Euratec, enfocado en automatización de procesos y sistemas internos.
+
+---
+
+## Tecnologías.
 
 **Frontend**
 
@@ -60,11 +103,18 @@ Ecosistema de proyectos de software enfocado en desarrollar y organizar herramie
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-0D1117?style=flat-square&logo=cloudflare&logoColor=F38020)
 ![Figma](https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E)
 ![n8n](https://img.shields.io/badge/n8n-0D1117?style=flat-square&logo=n8n&logoColor=EA4B71)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0D1117?style=flat-square&logo=powerautomate&logoColor=0066FF)
 
 ---
 
-## Contacto
+<div align="center">
 
+## Vamos a construir algo juntos.
+
+¿Tienes una idea, un problema o algo que te gustaría mejorar? Cuéntame.
+
+[![Email](https://img.shields.io/badge/info@antonioaleman.dev-0D1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:info@antonioaleman.dev)
+[![Zenith](https://img.shields.io/badge/info@getzenith.dev-8B56A5?style=flat-square&logoColor=white)](mailto:info@getzenith.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/alemanantonio/)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:antonioalemandev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=google-chrome&logoColor=white)](https://antonioaleman.dev)
+
+</div>
