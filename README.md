@@ -18,7 +18,7 @@ Radicado en Querétaro, México.
 ## Zenith.
 
 **Agencia de desarrollo de software que elimina el trabajo manual de tu negocio.**
-Creamos páginas web, software a la medida, automatizaciones y APIs para que ahorres tiempo, ordenes tu información y escales tus ventas.
+Creamos páginas web, software a la medida, automatizaciones y APIs.
 
 [![Visitar Zenith](https://img.shields.io/badge/getzenith.dev-8B56A5?style=for-the-badge&logoColor=white)](https://getzenith.dev)
 [![Repositorio](https://img.shields.io/badge/Repositorio-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alemanantonio/Zenith)
@@ -31,14 +31,6 @@ Creamos páginas web, software a la medida, automatizaciones y APIs para que aho
 | **Software a la medida** | Sistemas según tus requisitos para ahorrar tiempo de operación. |
 | **Automatizaciones** | Menos tareas repetitivas, más tiempo para vender y atender clientes. |
 | **Microservicios** | Conecta tus sistemas para procesar más oportunidades de negocio. |
-
-### Dos formas de empezar
-
-- **Software a la medida** — Analizamos tu proyecto, te enviamos una propuesta con alcance y precio, desarrollamos con avances constantes y entregamos listo para usar.
-- **Micro apps** *(próximamente)* — Herramientas generales con suscripción mensual y acceso inmediato, más económicas que un desarrollo exclusivo.
-
-> [!NOTE]
-> **Programa de Lanzamiento** — Landing page con personalización básica, hosting y mantenimiento durante un año, sin costo, para negocios que todavía no tienen página web. [Aplicar al programa](mailto:info@getzenith.dev?subject=Aplicación%20al%20Programa%20de%20Lanzamiento)
 
 ![Astro](https://img.shields.io/badge/Astro-0D1117?style=flat-square&logo=astro&logoColor=FF5D01)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6)
